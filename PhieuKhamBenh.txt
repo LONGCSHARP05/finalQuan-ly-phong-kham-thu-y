@@ -1,0 +1,88 @@
+PKB006
+2023-11-11
+CN006
+T011
+1
+Tai co mu ngua
+Viem tai ngoai
+0
+PKB007
+2023-11-11
+CN007
+T017
+1
+Bung to gay
+Nhiem giun san
+0
+PKB008
+2023-11-11
+CN008
+T018
+1
+Ngua sung mat
+Di ung
+0
+PKB009
+2023-11-12
+CN009
+T019
+1
+Dau mat do
+Nhiem trung mat
+0
+PKB010
+2023-11-12
+CN010
+T016
+1
+Tieu chay phan long
+Roi loan tieu hoa
+0
+PKB011
+2023-11-13
+CN011
+T011
+1
+Tai co mu ngua
+Viem tai giua
+0
+PKB012
+2023-11-14
+CN012
+T012
+1
+Da co vay rung long
+Nhiem ghe Demodex
+0
+PKB013
+2023-11-15
+CN013
+T015
+1
+Khap khieng dau khop
+Viem khop
+0
+PKB014
+2023-11-15
+CN014
+T014
+1
+Da co nam ngua
+Nhiem nam da
+0
+PKB015
+2023-11-15
+CN015
+T013
+1
+Lo lang cang thang
+Cang thang
+1
+PKB033
+2025-04-04
+CN014
+T012
+3
+Rung long duoi
+Ghe lo
+0
